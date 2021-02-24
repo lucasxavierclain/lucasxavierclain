@@ -3,7 +3,7 @@
 
  Sou formado em Publicidade e atualmente estou me formando como Programador FullStack Jr, na RecodePro!
 
- Já desenvolvi projetos em Node, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
+ Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
  Tentei colocar todos os meus projetos relevantes que possam mostrar o que eu fiz e o que pude aprender até agora!
 
 Se quiser saber mais sobre mim, é só dar uma olhada no meu Linkedin  

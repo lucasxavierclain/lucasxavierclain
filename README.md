@@ -1,7 +1,7 @@
 ## Olá, seja muito bem vindo ao meu perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-xavier-clain-de-abreu/)](https://www.linkedin.com/in/lucas-xavier-clain-de-abreu/) 
 
- Sou formado em Publicidade e atualmente estou me formando como Programador FullStack Jr, na RecodePro!
+ Programador Full Stack Jr pela Recode Pro e graduado em Publicidade e Propaganda pela IBMR!
 
  Já desenvolvi projetos usando NodeJs, PHP, ReactJS, Python, HTML, CSS, Javascript e Mysql.
  Tentei colocar todos os meus projetos relevantes que possam mostrar o que eu fiz e o que pude aprender até agora!

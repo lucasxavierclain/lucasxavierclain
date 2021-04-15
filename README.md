@@ -8,7 +8,7 @@
 
 Se quiser saber mais sobre mim, é só dar uma olhada no meu Linkedin  
 
-<strong>Essas são as linguagens que eu utilizei até hoje/utilizo:</strong>  
+<strong>Essas são as linguagens que eu utilizei/utilizo até hoje:</strong>  
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
